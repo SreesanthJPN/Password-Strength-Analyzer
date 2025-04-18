@@ -2,6 +2,8 @@
 
 A machine learning-based password strength classification system that analyzes passwords and provides detailed security insights.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Overview
 
 This project implements a sophisticated password strength classifier using PyTorch and Streamlit. It analyzes various password features and provides:
@@ -57,8 +59,8 @@ This project implements a sophisticated password strength classifier using PyTor
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
-cd password-strength-classifier
+git clone https://github.com/SreesanthJPN/Password-Strength-Analyzer.git
+cd Password-Strength-Analyzer
 ```
 
 2. Install dependencies:
@@ -113,10 +115,14 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-[Your chosen license]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
 - NLTK for linguistic analysis
 - spaCy for NER detection
-- Streamlit for the web interface 
+- Streamlit for the web interface
+
+## Contact
+
+For any queries or suggestions, please feel free to reach out or create an issue in the [GitHub repository](https://github.com/SreesanthJPN/Password-Strength-Analyzer). 
